@@ -3,8 +3,8 @@ layout: post
 title: This is how you should (or shouldn't) make discord bots
 description: Some tips and tricks for making discord bots
 summary: All the mistakes I made and the things I learned while making discord bots
-tags: coding
-minute: 1
+tags: coding, discord, bot
+minute: 10
 ---
 
 I have now been creating Discord bots for almost a year, and I have learned many things along the way. This is the culmination of my journey as a Discord bot creator. Throughout the past year, I have dedicated countless hours to learning, experimenting, and implementing various functionalities to make my bots efficient and user-friendly. From understanding the Discord API to integrating helpful features and commands, it has been an exhilarating experience. Along the way, I have faced challenges, debugged countless errors, and celebrated small victories.
