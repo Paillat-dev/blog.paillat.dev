@@ -3,7 +3,7 @@ layout: post
 title: This is how you should (or shouldn't) make discord bots
 description: Some tips and tricks for making discord bots
 summary: All the mistakes I made and the things I learned while making discord bots
-tags: coding, discord, bot
+tags: coding discord bot
 minute: 10
 ---
 
