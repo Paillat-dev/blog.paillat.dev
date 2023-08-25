@@ -33,6 +33,7 @@ While this article is not primarily a beginner's guide, it can still be valuable
    - Default Permissions
    - Subcommands and Commands Names and Options
 11. Conclusion
+
 ## Framework
 
 There are countless frameworks for building Discord bots in many languages. I personally choose *Python* as a language and *py-cord* as a framework. Python allows me, with its easy syntax, to focus more on what I want to do than how to do it. Pycord is one of the best Python Discord frameworks out there, forked from *discord.py*. You should definitely check [this comparison](https://libs.advaith.io) to see the most used libraries in many languages.
